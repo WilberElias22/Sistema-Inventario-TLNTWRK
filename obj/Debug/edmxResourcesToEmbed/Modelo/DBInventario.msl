@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Inventario_TlntwrkModelStoreContainer" CdmEntityContainer="BDD_Inventario_TlntwrkEntities">
+    <EntitySetMapping Name="Router">
+      <EntityTypeMapping TypeName="Inventario_TlntwrkModel.Router">
+        <MappingFragment StoreEntitySet="Router">
+          <ScalarProperty Name="ID_Router" ColumnName="ID_Router" />
+          <ScalarProperty Name="Marca" ColumnName="Marca" />
+          <ScalarProperty Name="Modelo" ColumnName="Modelo" />
+          <ScalarProperty Name="Serial" ColumnName="Serial" />
+          <ScalarProperty Name="Proveedor" ColumnName="Proveedor" />
+          <ScalarProperty Name="Fecha_Lote" ColumnName="Fecha_Lote" />
+          <ScalarProperty Name="Fecha_Ingreso" ColumnName="Fecha_Ingreso" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

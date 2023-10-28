@@ -1,0 +1,158 @@
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.csproj.AssemblyReference.cache
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.csproj.SuggestedBindingRedirects.cache
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.Form1.resources
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.Properties.Resources.resources
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.csproj.GenerateResource.cache
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.csproj.CoreCompileInputs.cache
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\Inventario_Tlntwrk.exe.config
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\Inventario_Tlntwrk.exe
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\Inventario_Tlntwrk.pdb
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\MaterialSkin.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.csproj.CopyComplete
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.exe
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.pdb
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.FrmTabla.resources
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\EntityFramework.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\EntityFramework.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\Google.Protobuf.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\MySql.Data.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\System.Buffers.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\System.IO.Pipelines.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\System.Memory.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\Google.Protobuf.pdb
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\Google.Protobuf.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\MySql.Data.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\System.Buffers.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\System.IO.Pipelines.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\System.Memory.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.LoginForm.resources
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.Marca.resources
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.Modelo.resources
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.Proveedor.resources
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.Salida.resources
+C:\Users\WilberErnestoEliasAv\source\repos\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.AgregarSalida.resources
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\EntityFramework.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Google.Protobuf.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\MaterialSkin.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\MySql.Data.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.Buffers.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.IO.Pipelines.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.Memory.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\EntityFramework.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Google.Protobuf.pdb
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Google.Protobuf.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\MySql.Data.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.Buffers.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.IO.Pipelines.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.Memory.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.csproj.AssemblyReference.cache
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.csproj.SuggestedBindingRedirects.cache
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.AgregarSalida.resources
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.EquiposInstalados.resources
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.Form1.resources
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.FrmTabla.resources
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.LoginForm.resources
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.Marca.resources
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.Modelo.resources
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.Properties.Resources.resources
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.Proveedor.resources
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.Salida.resources
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.csproj.GenerateResource.cache
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.csproj.CoreCompileInputs.cache
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario_Tlntwrk.csproj.CopyComplete
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\libSkiaSharp.dylib
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.barcodes.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.commons.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.forms.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.io.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.kernel.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.layout.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.pdfa.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.sign.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.styledxmlparser.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.svg.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\iTextSharp.LGPLv2.Core.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\SkiaSharp.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.ValueTuple.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.barcodes.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.commons.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.forms.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.io.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.kernel.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.layout.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.pdfa.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.sign.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.styledxmlparser.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.svg.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\iTextSharp.LGPLv2.Core.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\SkiaSharp.pdb
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\SkiaSharp.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\System.ValueTuple.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\bc-fips-1.0.2.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\bcpkix-fips-1.0.2.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.bouncy-castle-fips-adapter.dll
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\itext.bouncy-castle-fips-adapter.xml
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Inventario Telenetwork.exe.config
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Inventario Telenetwork.exe
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\bin\Debug\Inventario Telenetwork.pdb
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario Telenetwork.exe
+C:\Users\WilberErnestoEliasAv\OneDrive - Universidad Francisco Gavidia\Ciclo 07\LPP0\Inventario_Tlntwrk\obj\Debug\Inventario Telenetwork.pdb
